@@ -4,9 +4,11 @@
 Name: ashton bourne
 Major: Computer programming
 
+
 ## Skills
-- Programming: Basic
-- Git: Learning
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
 
 ## Projects
 - Project 1: june 19 2026
